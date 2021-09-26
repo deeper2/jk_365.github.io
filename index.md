@@ -1,4 +1,4 @@
-## Welcome to Kun Jiang's 个人主页
+### Kun Jiang's 个人主页
 
 ### Tyler K. Jiang
 
