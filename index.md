@@ -14,7 +14,7 @@
 
 
 ### Teaching Resource
-1. Microcomputer Principle and Interface Technology
+1. Microcomputer Principle and Interface Technology (Spring)
 
 
 ### Contact
