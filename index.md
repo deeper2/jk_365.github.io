@@ -12,23 +12,10 @@
 
 For more papers see https://dblp.org/pid/03/4406.html
 
-```markdown
-Teaching Resource
 
-# Header 1
-## Header 2
-### Header 3
+### Teaching Resource
+1. Microcomputer Principle and Interface Technology
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### Contact
 
