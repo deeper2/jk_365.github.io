@@ -7,6 +7,11 @@
 1. information theory and coding, optimization method, sparse and low-rank representation; 
 2. applications in complex network, multimedia data compression and recommendation systems et., al.
 
+### Publications
+1. Kun Jiang, Lei Zhu, Qindong Sun: Optimizing Scoring and Sorting Operations for Faster WAND Processing. ADMA 2020: 499-514.
+
+For more papers see https://dblp.org/pid/03/4406.html
+
 ```markdown
 Teaching Resource
 
@@ -24,10 +29,6 @@ Teaching Resource
 
 [Link](url) and ![Image](src)
 ```
-### Publications
-1. Kun Jiang, Lei Zhu, Qindong Sun: Optimizing Scoring and Sorting Operations for Faster WAND Processing. ADMA 2020: 499-514.
-
-For more papers see https://dblp.org/pid/03/4406.html
 
 ### Contact
 
