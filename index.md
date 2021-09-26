@@ -1,6 +1,6 @@
 ## Welcome to Kun Jiang's Home Pages
 
-### Tyler K. Jiang
+### Thomas K. Jiang
 
 
 
