@@ -8,7 +8,7 @@
 2. applications in complex network, multimedia data compression and recommendation systems et., al.
 
 ### Publications
-1. Kun Jiang, Lei Zhu, Qindong Sun: Low-Rank Orthonormal Analysis Dictionary Learning for Image Classification. PRICAI 2021, Accepted.
+1. Kun Jiang, Zhaoli Liu, Qindong Sun: Low-Rank Orthonormal Analysis Dictionary Learning for Image Classification. PRICAI 2021, Accepted.
 2. Kun Jiang, Lei Zhu, Qindong Sun: Optimizing Scoring and Sorting Operations for Faster WAND Processing. ADMA 2020: 499-514.
 
 
