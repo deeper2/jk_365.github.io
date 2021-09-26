@@ -30,6 +30,6 @@ For more papers see https://dblp.org/pid/03/4406.html
 
 ### Contact
 
-Email: jk_365@126.com
+1. Email: jk_365@126.com
 
-Address : NO.5 South Jinhua Road, Xi’an, China
+2. Address : NO.5 South Jinhua Road, Xi’an, China
