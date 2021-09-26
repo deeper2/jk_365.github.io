@@ -1,6 +1,6 @@
-## Welcome to Tyler K. Jiang's Pages
+## Welcome to Kun Jiang's Home Pages
 
-### Kun Jiang
+### Tyler K. Jiang
 
 
 
