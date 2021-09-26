@@ -10,7 +10,6 @@
 ### Publications
 1. Kun Jiang, Lei Zhu, Qindong Sun: Optimizing Scoring and Sorting Operations for Faster WAND Processing. ADMA 2020: 499-514.
 
-For more papers see https://dblp.org/pid/03/4406.html
 
 
 ### Teaching Resource
